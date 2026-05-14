@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "my-standards",
-      "source": ".",
+      "source": "./",
       "description": "A collection of personal coding standards and conventions for consistent, high-quality software development."
     }
   ]
