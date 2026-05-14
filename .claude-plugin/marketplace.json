@@ -1,0 +1,13 @@
+{
+  "name": "my-standards-marketplace",
+  "owner": {
+    "name": "Jacinto"
+  },
+  "plugins": [
+    {
+      "name": "my-standards",
+      "source": ".",
+      "description": "A collection of personal coding standards and conventions for consistent, high-quality software development."
+    }
+  ]
+}
